@@ -12,6 +12,8 @@ package vista;
 public class Aplicacion {
     public static void main(String[] args) {
         System.out.println("ejemplo");
+       
+        System.out.println("Datos");
     }
     
 }
